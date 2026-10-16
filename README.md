@@ -36,6 +36,10 @@ On Ubuntu, install the cross-compiler and run the supplied script:
 sudo apt install gcc-mingw-w64-i686
 bash build.sh
 ```
+<img width="482" height="307" alt="image" src="https://github.com/user-attachments/assets/e25fa34a-ac27-44c6-94a5-d3e3facb6072" />
+<img width="482" height="307" alt="image" src="https://github.com/user-attachments/assets/3decda9b-fff3-4a46-8fd1-9672d78217ad" />
+
+
 
 ## Author
 
