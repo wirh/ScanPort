@@ -1,0 +1,4 @@
+ScanPort.exe
+scanport.res
+*.o
+ScanPort-*.zip
